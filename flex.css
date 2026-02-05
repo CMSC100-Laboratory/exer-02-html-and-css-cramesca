@@ -20,6 +20,18 @@
     
 }
 
+.project {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 90%;
+    height: 80%;
+
+    object-fit: contain;
+}
+
 .title {
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
