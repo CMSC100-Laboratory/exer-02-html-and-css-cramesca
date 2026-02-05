@@ -1,10 +1,3 @@
-Q1: What should you include in your ReadMe.md?
-○ Full Name
-○ Degree Program
-○ Live Website link
-○ Steps on how to create GitHub page
-○ What are your key takeaways from this exercise?
-
 CASAL, Charleen Airam E.
 B.S. Computer Science
 https://cmsc100-laboratory.github.io/exer-02-html-and-css-cramesca/
